@@ -8,7 +8,7 @@ export default function Navbar() {
           <div className="flex-1">
             <Link href="/" className="block">
               <h1 className="text-3xl font-serif font-bold text-[#003366] leading-tight">
-                International Journal of Advanced Academic Research
+                General Academic Journal
               </h1>
               <p className="text-sm text-gray-500 mt-1 uppercase tracking-wider font-semibold">
                 An Open Access Peer-Reviewed Journal

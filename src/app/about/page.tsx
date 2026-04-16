@@ -1,7 +1,7 @@
 import React from "react";
 
 export const metadata = {
-  title: "About | IJAAR",
+  title: "About | GAJ",
 };
 
 export default function AboutPage() {
@@ -16,7 +16,7 @@ export default function AboutPage() {
         <section>
           <h2 className="text-2xl font-serif font-bold text-[#003366] mb-4">Aim & Scope</h2>
           <p>
-            The International Journal of Advanced Academic Research (IJAAR) aims to provide an intellectual platform for global scholars. 
+            The General Academic Journal (GAJ) aims to provide an intellectual platform for global scholars. 
             The journal publishes high-quality, peer-reviewed research across multidisciplinary fields including STEM, Humanities, and Social Sciences. 
             We strive to bridge the gap between academic research and practical applications by promoting free access to innovative knowledge.
           </p>
@@ -25,7 +25,7 @@ export default function AboutPage() {
         <section>
           <h2 className="text-2xl font-serif font-bold text-[#003366] mb-4">Publication Frequency</h2>
           <p>
-            IJAAR is a <strong>Bi-annual</strong> publication, releasing issues in <strong>June</strong> and <strong>December</strong> each year. 
+            GAJ is a <strong>Bi-annual</strong> publication, releasing issues in <strong>June</strong> and <strong>December</strong> each year. 
             Special issues dedicated to specific global challenges or conference proceedings may be published occasionally.
           </p>
         </section>
@@ -50,7 +50,7 @@ export default function AboutPage() {
         <section>
           <h2 className="text-2xl font-serif font-bold text-[#003366] mb-4">Ethics & Plagiarism Policy</h2>
           <p>
-            IJAAR adheres to strict ethical standards. All authors must state that their work is original and has not been published elsewhere.
+            GAJ adheres to strict ethical standards. All authors must state that their work is original and has not been published elsewhere.
             We use industry-standard plagiarism detection software (e.g., Turnitin) to verify the originality of submissions. Manuscripts with a similarity index above 15% will be returned or rejected outright.
           </p>
         </section>

@@ -5,9 +5,9 @@ export default function Footer() {
     <footer className="bg-[#111827] text-white pt-12 pb-8 border-t-4 border-[#003366]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-4 gap-8">
         <div className="md:col-span-2">
-          <h2 className="text-xl font-serif font-bold mb-4">IJAAR</h2>
+          <h2 className="text-xl font-serif font-bold mb-4">GAJ</h2>
           <p className="text-sm text-gray-400 mb-4 pr-8 leading-relaxed">
-            International Journal of Advanced Academic Research is a double-blind peer-reviewed, open-access international journal dedicated to promoting scholarly exchange across various disciplines.
+            General Academic Journal is a double-blind peer-reviewed, open-access international journal dedicated to promoting scholarly exchange across various disciplines.
           </p>
           <div className="font-semibold text-gray-300">
             ISSN: 2456-7890 (Online)
@@ -38,7 +38,7 @@ export default function Footer() {
       </div>
       
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-12 pt-8 border-t border-gray-800 text-sm text-gray-500 flex flex-col md:flex-row justify-between items-center">
-        <p>&copy; {new Date().getFullYear()} International Journal of Advanced Academic Research. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} General Academic Journal. All rights reserved.</p>
         <p className="mt-2 md:mt-0">Open Access under CC BY 4.0 License</p>
       </div>
     </footer>

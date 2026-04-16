@@ -15,7 +15,7 @@ const lora = Lora({
 });
 
 export const metadata: Metadata = {
-  title: "International Journal of Advanced Academic Research",
+  title: "General Academic Journal",
   description: "A peer-reviewed, open access academic journal publishing cutting-edge research.",
 };
 

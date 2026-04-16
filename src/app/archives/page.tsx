@@ -4,7 +4,7 @@ import Link from "next/link";
 import IssueCard from "@/components/IssueCard";
 
 export const metadata = {
-  title: "Archives | IJAAR",
+  title: "Archives | GAJ",
 };
 
 export default function ArchivesPage() {
@@ -15,7 +15,7 @@ export default function ArchivesPage() {
       </h1>
       
       <p className="text-gray-600 mb-8">
-        Browse past issues of the International Journal of Advanced Academic Research. 
+        Browse past issues of the General Academic Journal. 
         All published articles remain publicly accessible under our open-access policy.
       </p>
 

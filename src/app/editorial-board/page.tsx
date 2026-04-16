@@ -3,7 +3,7 @@ import { editors } from "@/lib/data";
 import EditorCard from "@/components/EditorCard";
 
 export const metadata = {
-  title: "Editorial Board | IJAAR",
+  title: "Editorial Board | GAJ",
 };
 
 export default function EditorialBoardPage() {

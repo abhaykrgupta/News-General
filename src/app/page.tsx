@@ -13,7 +13,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl">
             <span className="inline-block px-3 py-1 bg-blue-800 text-blue-100 text-xs font-bold uppercase tracking-wider rounded mb-4">
-              Call for Papers 2024
+              Call for Papers 2026
             </span>
             <h2 className="text-3xl md:text-5xl font-serif font-bold leading-tight mb-6">
               Advancing Global Knowledge and Discovery
@@ -69,7 +69,7 @@ export default function Home() {
             </div>
             <div className="p-5">
               <div className="text-4xl font-light text-gray-800 mb-2">Vol. 12</div>
-              <div className="text-xl text-gray-600 mb-6">Issue 1 (2024)</div>
+              <div className="text-xl text-gray-600 mb-6">Issue 1 (2026)</div>
               <p className="text-sm text-gray-600 mb-6 line-clamp-3">
                 This issue explores cutting-edge themes in artificial intelligence, quantum computing, and sustainable implementations globally.
               </p>

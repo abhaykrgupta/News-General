@@ -3,13 +3,13 @@ import { articles } from "@/lib/data";
 import ArticleCard from "@/components/ArticleCard";
 
 export const metadata = {
-  title: "Current Issue | IJAAR",
+  title: "Current Issue | GAJ",
 };
 
 export default function CurrentIssuePage() {
   const currentVolume = "12";
   const currentIssue = "1";
-  const currentYear = "2024";
+  const currentYear = "2026";
   
   // Filter articles that belong to the current issue
   const currentArticles = articles.filter(a => a.volume === currentVolume && a.issue === currentIssue && a.year === currentYear);

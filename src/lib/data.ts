@@ -4,36 +4,36 @@ export const articles = [
     title: "The Impact of Artificial Intelligence on Modern Healthcare Systems",
     authors: ["Dr. Jane Smith", "Prof. Alan Turing", "Dr. Sarah Connor"],
     abstract: "This paper explores the transformative effects of AI in diagnostic procedures, patient care management, and predictive analytics within hospital environments. We present a comprehensive review of recent advancements and their clinical implications.",
-    doi: "https://doi.org/10.1234/iaar.2024.001",
+    doi: "https://doi.org/10.1234/gaj.2026.001",
     pdfUrl: "#",
-    date: "2024-03-15",
+    date: "2026-03-15",
     volume: "12",
     issue: "1",
-    year: "2024",
+    year: "2026",
   },
   {
     id: "2",
     title: "Quantum Computing: Prospects and Challenges for Cryptography",
     authors: ["Dr. Richard Feynman", "Dr. Ada Lovelace"],
     abstract: "Quantum computing poses a significant threat to current cryptographic protocols. This study analyzes the vulnerability of RSA and ECC algorithms and reviews post-quantum cryptographic alternatives currently under standardization.",
-    doi: "https://doi.org/10.1234/iaar.2024.002",
+    doi: "https://doi.org/10.1234/gaj.2026.002",
     pdfUrl: "#",
-    date: "2024-03-20",
+    date: "2026-03-20",
     volume: "12",
     issue: "1",
-    year: "2024",
+    year: "2026",
   },
   {
     id: "3",
     title: "Sustainable Urban Planning Using Geographic Information Systems",
     authors: ["Prof. Michael Jordan", "Dr. Elena Gilbert"],
     abstract: "Urban areas are expanding rapidly. This research utilizes robust GIS modeling to propose sustainable urban growth frameworks that balance infrastructural needs with ecological conservation.",
-    doi: "https://doi.org/10.1234/iaar.2023.015",
+    doi: "https://doi.org/10.1234/gaj.2025.015",
     pdfUrl: "#",
-    date: "2023-11-05",
+    date: "2025-11-05",
     volume: "11",
     issue: "2",
-    year: "2023",
+    year: "2025",
   }
 ];
 
@@ -70,23 +70,23 @@ export const editors = [
 
 export const archives = [
   {
+    year: "2026",
+    volumes: [
+      { volume: "12", issue: "1", date: "March 2026", totalArticles: 15 }
+    ]
+  },
+  {
+    year: "2025",
+    volumes: [
+      { volume: "11", issue: "2", date: "November 2025", totalArticles: 18 },
+      { volume: "11", issue: "1", date: "May 2025", totalArticles: 14 }
+    ]
+  },
+  {
     year: "2024",
     volumes: [
-      { volume: "12", issue: "1", date: "March 2024", totalArticles: 15 }
-    ]
-  },
-  {
-    year: "2023",
-    volumes: [
-      { volume: "11", issue: "2", date: "November 2023", totalArticles: 18 },
-      { volume: "11", issue: "1", date: "May 2023", totalArticles: 14 }
-    ]
-  },
-  {
-    year: "2022",
-    volumes: [
-      { volume: "10", issue: "2", date: "December 2022", totalArticles: 20 },
-      { volume: "10", issue: "1", date: "June 2022", totalArticles: 16 }
+      { volume: "10", issue: "2", date: "December 2024", totalArticles: 20 },
+      { volume: "10", issue: "1", date: "June 2024", totalArticles: 16 }
     ]
   }
 ];
